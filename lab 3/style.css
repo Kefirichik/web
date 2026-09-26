@@ -1,0 +1,10 @@
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.block{
+    background-color: greenyellow;
+    border: solid 1px green;
+    border-radius: 10%;
+}
